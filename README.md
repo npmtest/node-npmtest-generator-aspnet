@@ -1,4 +1,7 @@
-# test coverage for  [generator-aspnet (v0.3.3)](https://github.com/omnisharp/generator-aspnet#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-aspnet.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-aspnet) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-aspnet.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-aspnet)
+# npmtest-generator-aspnet
+
+#### test coverage for  [generator-aspnet (v0.3.3)](https://github.com/omnisharp/generator-aspnet#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-generator-aspnet.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-generator-aspnet) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-generator-aspnet.svg)](https://travis-ci.org/npmtest/node-npmtest-generator-aspnet)
+
 #### Yeoman generator for ASP.NET Core apps
 
 [![NPM](https://nodei.co/npm/generator-aspnet.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/generator-aspnet)
