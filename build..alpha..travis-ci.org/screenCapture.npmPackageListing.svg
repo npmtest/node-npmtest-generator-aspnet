@@ -1,431 +1,431 @@
 <svg height="6846" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="6846" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 04:34:37 +0000   586999 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 04:34:37 +0000     5737 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 04:34:37 +0000      249 bytes  app/USAGE</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 04:34:37 +0000    30156 bytes  app/index.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 04:34:37 +0000     1868 bytes  configuration.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 04:34:37 +0000      136 bytes  nugetconfig/USAGE</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 04:34:37 +0000      342 bytes  nugetconfig/index.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 04:34:37 +0000     3707 bytes  package.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 04:34:37 +0000     1246 bytes  script-base-basic.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 04:34:37 +0000     2511 bytes  script-base.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 04:34:37 +0000     4418 bytes  templates/gitignore.txt</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 04:34:37 +0000       51 bytes  templates/global.json</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 04:34:37 +0000      210 bytes  templates/nuget.config</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 04:34:37 +0000     3219 bytes  templates/overrides/semantic/mvc/README.md</tspan>
-<tspan x="10" y="250"> 14.  2017-04-19 04:34:37 +0000     2088 bytes  templates/overrides/semantic/mvc/TagHelpers/Menu\</tspan>
+<tspan x="10" y="26">  0.  2017-04-25 20:53:55 +0000   586999 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-25 20:53:55 +0000     5737 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-25 20:53:55 +0000      249 bytes  app/USAGE</tspan>
+<tspan x="10" y="74">  3.  2017-04-25 20:53:55 +0000    30156 bytes  app/index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-25 20:53:55 +0000     1868 bytes  configuration.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-25 20:53:55 +0000      136 bytes  nugetconfig/USAGE</tspan>
+<tspan x="10" y="122">  6.  2017-04-25 20:53:55 +0000      342 bytes  nugetconfig/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-25 20:53:55 +0000     3707 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-25 20:53:55 +0000     1246 bytes  script-base-basic.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-25 20:53:55 +0000     2511 bytes  script-base.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-25 20:53:55 +0000     4418 bytes  templates/gitignore.txt</tspan>
+<tspan x="10" y="202"> 11.  2017-04-25 20:53:55 +0000       51 bytes  templates/global.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-25 20:53:55 +0000      210 bytes  templates/nuget.config</tspan>
+<tspan x="10" y="234"> 13.  2017-04-25 20:53:55 +0000     3219 bytes  templates/overrides/semantic/mvc/README.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-25 20:53:55 +0000     2088 bytes  templates/overrides/semantic/mvc/TagHelpers/Menu\</tspan>
 <tspan x="10" y="266">LinkTagHelper.cs</tspan>
-<tspan x="10" y="282"> 15.  2017-04-19 04:34:37 +0000      248 bytes  templates/overrides/semantic/mvc/Views/Account/C\</tspan>
+<tspan x="10" y="282"> 15.  2017-04-25 20:53:55 +0000      248 bytes  templates/overrides/semantic/mvc/Views/Account/C\</tspan>
 <tspan x="10" y="298">onfirmEmail.cshtml</tspan>
-<tspan x="10" y="314"> 16.  2017-04-19 04:34:37 +0000     1166 bytes  templates/overrides/semantic/mvc/Views/Account/E\</tspan>
+<tspan x="10" y="314"> 16.  2017-04-25 20:53:55 +0000     1166 bytes  templates/overrides/semantic/mvc/Views/Account/E\</tspan>
 <tspan x="10" y="330">xternalLoginConfirmation.cshtml</tspan>
-<tspan x="10" y="346"> 17.  2017-04-19 04:34:37 +0000      157 bytes  templates/overrides/semantic/mvc/Views/Account/E\</tspan>
+<tspan x="10" y="346"> 17.  2017-04-25 20:53:55 +0000      157 bytes  templates/overrides/semantic/mvc/Views/Account/E\</tspan>
 <tspan x="10" y="362">xternalLoginFailure.cshtml</tspan>
-<tspan x="10" y="378"> 18.  2017-04-19 04:34:37 +0000      375 bytes  templates/overrides/semantic/mvc/Views/Account/F\</tspan>
+<tspan x="10" y="378"> 18.  2017-04-25 20:53:55 +0000      375 bytes  templates/overrides/semantic/mvc/Views/Account/F\</tspan>
 <tspan x="10" y="394">orgotPassword.cshtml</tspan>
-<tspan x="10" y="410"> 19.  2017-04-19 04:34:37 +0000      169 bytes  templates/overrides/semantic/mvc/Views/Account/F\</tspan>
+<tspan x="10" y="410"> 19.  2017-04-25 20:53:55 +0000      169 bytes  templates/overrides/semantic/mvc/Views/Account/F\</tspan>
 <tspan x="10" y="426">orgotPasswordConfirmation.cshtml</tspan>
-<tspan x="10" y="442"> 20.  2017-04-19 04:34:37 +0000       86 bytes  templates/overrides/semantic/mvc/Views/Account/I\</tspan>
+<tspan x="10" y="442"> 20.  2017-04-25 20:53:55 +0000       86 bytes  templates/overrides/semantic/mvc/Views/Account/I\</tspan>
 <tspan x="10" y="458">nfo.cshtml</tspan>
-<tspan x="10" y="474"> 21.  2017-04-19 04:34:37 +0000      179 bytes  templates/overrides/semantic/mvc/Views/Account/L\</tspan>
+<tspan x="10" y="474"> 21.  2017-04-25 20:53:55 +0000      179 bytes  templates/overrides/semantic/mvc/Views/Account/L\</tspan>
 <tspan x="10" y="490">ockout.cshtml</tspan>
-<tspan x="10" y="506"> 22.  2017-04-19 04:34:37 +0000     3553 bytes  templates/overrides/semantic/mvc/Views/Account/L\</tspan>
+<tspan x="10" y="506"> 22.  2017-04-25 20:53:55 +0000     3553 bytes  templates/overrides/semantic/mvc/Views/Account/L\</tspan>
 <tspan x="10" y="522">ogin.cshtml</tspan>
-<tspan x="10" y="538"> 23.  2017-04-19 04:34:37 +0000     1437 bytes  templates/overrides/semantic/mvc/Views/Account/R\</tspan>
+<tspan x="10" y="538"> 23.  2017-04-25 20:53:55 +0000     1437 bytes  templates/overrides/semantic/mvc/Views/Account/R\</tspan>
 <tspan x="10" y="554">egister.cshtml</tspan>
-<tspan x="10" y="570"> 24.  2017-04-19 04:34:37 +0000     1429 bytes  templates/overrides/semantic/mvc/Views/Account/R\</tspan>
+<tspan x="10" y="570"> 24.  2017-04-25 20:53:55 +0000     1429 bytes  templates/overrides/semantic/mvc/Views/Account/R\</tspan>
 <tspan x="10" y="586">esetPassword.cshtml</tspan>
-<tspan x="10" y="602"> 25.  2017-04-19 04:34:37 +0000      230 bytes  templates/overrides/semantic/mvc/Views/Account/R\</tspan>
+<tspan x="10" y="602"> 25.  2017-04-25 20:53:55 +0000      230 bytes  templates/overrides/semantic/mvc/Views/Account/R\</tspan>
 <tspan x="10" y="618">esetPasswordConfirmation.cshtml</tspan>
-<tspan x="10" y="634"> 26.  2017-04-19 04:34:37 +0000      653 bytes  templates/overrides/semantic/mvc/Views/Account/S\</tspan>
+<tspan x="10" y="634"> 26.  2017-04-25 20:53:55 +0000      653 bytes  templates/overrides/semantic/mvc/Views/Account/S\</tspan>
 <tspan x="10" y="650">endCode.cshtml</tspan>
-<tspan x="10" y="666"> 27.  2017-04-19 04:34:37 +0000     1113 bytes  templates/overrides/semantic/mvc/Views/Account/V\</tspan>
+<tspan x="10" y="666"> 27.  2017-04-25 20:53:55 +0000     1113 bytes  templates/overrides/semantic/mvc/Views/Account/V\</tspan>
 <tspan x="10" y="682">erifyCode.cshtml</tspan>
-<tspan x="10" y="698"> 28.  2017-04-19 04:34:37 +0000      203 bytes  templates/overrides/semantic/mvc/Views/Home/Abou\</tspan>
+<tspan x="10" y="698"> 28.  2017-04-25 20:53:55 +0000      203 bytes  templates/overrides/semantic/mvc/Views/Home/Abou\</tspan>
 <tspan x="10" y="714">t.cshtml</tspan>
-<tspan x="10" y="730"> 29.  2017-04-19 04:34:37 +0000      295 bytes  templates/overrides/semantic/mvc/Views/Home/Cont\</tspan>
+<tspan x="10" y="730"> 29.  2017-04-25 20:53:55 +0000      295 bytes  templates/overrides/semantic/mvc/Views/Home/Cont\</tspan>
 <tspan x="10" y="746">act.cshtml</tspan>
-<tspan x="10" y="762"> 30.  2017-04-19 04:34:37 +0000     3861 bytes  templates/overrides/semantic/mvc/Views/Home/Inde\</tspan>
+<tspan x="10" y="762"> 30.  2017-04-25 20:53:55 +0000     3861 bytes  templates/overrides/semantic/mvc/Views/Home/Inde\</tspan>
 <tspan x="10" y="778">x.cshtml</tspan>
-<tspan x="10" y="794"> 31.  2017-04-19 04:34:37 +0000      820 bytes  templates/overrides/semantic/mvc/Views/Manage/Ad\</tspan>
+<tspan x="10" y="794"> 31.  2017-04-25 20:53:55 +0000      820 bytes  templates/overrides/semantic/mvc/Views/Manage/Ad\</tspan>
 <tspan x="10" y="810">dPhoneNumber.cshtml</tspan>
-<tspan x="10" y="826"> 32.  2017-04-19 04:34:37 +0000     1214 bytes  templates/overrides/semantic/mvc/Views/Manage/Ch\</tspan>
+<tspan x="10" y="826"> 32.  2017-04-25 20:53:55 +0000     1214 bytes  templates/overrides/semantic/mvc/Views/Manage/Ch\</tspan>
 <tspan x="10" y="842">angePassword.cshtml</tspan>
-<tspan x="10" y="858"> 33.  2017-04-19 04:34:37 +0000     2749 bytes  templates/overrides/semantic/mvc/Views/Manage/In\</tspan>
+<tspan x="10" y="858"> 33.  2017-04-25 20:53:55 +0000     2749 bytes  templates/overrides/semantic/mvc/Views/Manage/In\</tspan>
 <tspan x="10" y="874">dex.cshtml</tspan>
-<tspan x="10" y="890"> 34.  2017-04-19 04:34:37 +0000     2020 bytes  templates/overrides/semantic/mvc/Views/Manage/Ma\</tspan>
+<tspan x="10" y="890"> 34.  2017-04-25 20:53:55 +0000     2020 bytes  templates/overrides/semantic/mvc/Views/Manage/Ma\</tspan>
 <tspan x="10" y="906">nageLogins.cshtml</tspan>
-<tspan x="10" y="922"> 35.  2017-04-19 04:34:37 +0000     1129 bytes  templates/overrides/semantic/mvc/Views/Manage/Se\</tspan>
+<tspan x="10" y="922"> 35.  2017-04-25 20:53:55 +0000     1129 bytes  templates/overrides/semantic/mvc/Views/Manage/Se\</tspan>
 <tspan x="10" y="938">tPassword.cshtml</tspan>
-<tspan x="10" y="954"> 36.  2017-04-19 04:34:37 +0000      918 bytes  templates/overrides/semantic/mvc/Views/Manage/Ve\</tspan>
+<tspan x="10" y="954"> 36.  2017-04-25 20:53:55 +0000      918 bytes  templates/overrides/semantic/mvc/Views/Manage/Ve\</tspan>
 <tspan x="10" y="970">rifyPhoneNumber.cshtml</tspan>
-<tspan x="10" y="986"> 37.  2017-04-19 04:34:37 +0000      701 bytes  templates/overrides/semantic/mvc/Views/Shared/Er\</tspan>
+<tspan x="10" y="986"> 37.  2017-04-25 20:53:55 +0000      701 bytes  templates/overrides/semantic/mvc/Views/Shared/Er\</tspan>
 <tspan x="10" y="1002">ror.cshtml</tspan>
-<tspan x="10" y="1018"> 38.  2017-04-19 04:34:37 +0000     5977 bytes  templates/overrides/semantic/mvc/Views/Shared/_L\</tspan>
+<tspan x="10" y="1018"> 38.  2017-04-25 20:53:55 +0000     5977 bytes  templates/overrides/semantic/mvc/Views/Shared/_L\</tspan>
 <tspan x="10" y="1034">ayout.cshtml</tspan>
-<tspan x="10" y="1050"> 39.  2017-04-19 04:34:37 +0000      878 bytes  templates/overrides/semantic/mvc/Views/Shared/_L\</tspan>
+<tspan x="10" y="1050"> 39.  2017-04-25 20:53:55 +0000      878 bytes  templates/overrides/semantic/mvc/Views/Shared/_L\</tspan>
 <tspan x="10" y="1066">oginPartial.cshtml</tspan>
-<tspan x="10" y="1082"> 40.  2017-04-19 04:34:37 +0000     1010 bytes  templates/overrides/semantic/mvc/Views/Shared/_V\</tspan>
+<tspan x="10" y="1082"> 40.  2017-04-25 20:53:55 +0000     1010 bytes  templates/overrides/semantic/mvc/Views/Shared/_V\</tspan>
 <tspan x="10" y="1098">alidationScriptsPartial.cshtml</tspan>
-<tspan x="10" y="1114"> 41.  2017-04-19 04:34:37 +0000      276 bytes  templates/overrides/semantic/mvc/Views/_ViewImpo\</tspan>
+<tspan x="10" y="1114"> 41.  2017-04-25 20:53:55 +0000      276 bytes  templates/overrides/semantic/mvc/Views/_ViewImpo\</tspan>
 <tspan x="10" y="1130">rts.cshtml</tspan>
-<tspan x="10" y="1146"> 42.  2017-04-19 04:34:37 +0000      219 bytes  templates/overrides/semantic/mvc/bower.json</tspan>
-<tspan x="10" y="1162"> 43.  2017-04-19 04:34:37 +0000      814 bytes  templates/overrides/semantic/mvc/bundleconfig.js\</tspan>
+<tspan x="10" y="1146"> 42.  2017-04-25 20:53:55 +0000      219 bytes  templates/overrides/semantic/mvc/bower.json</tspan>
+<tspan x="10" y="1162"> 43.  2017-04-25 20:53:55 +0000      814 bytes  templates/overrides/semantic/mvc/bundleconfig.js\</tspan>
 <tspan x="10" y="1178">on</tspan>
-<tspan x="10" y="1194"> 44.  2017-04-19 04:34:37 +0000     1644 bytes  templates/overrides/semantic/mvc/wwwroot/css/sit\</tspan>
+<tspan x="10" y="1194"> 44.  2017-04-25 20:53:55 +0000     1644 bytes  templates/overrides/semantic/mvc/wwwroot/css/sit\</tspan>
 <tspan x="10" y="1210">e.css</tspan>
-<tspan x="10" y="1226"> 45.  2017-04-19 04:34:37 +0000     1193 bytes  templates/overrides/semantic/mvc/wwwroot/css/sit\</tspan>
+<tspan x="10" y="1226"> 45.  2017-04-25 20:53:55 +0000     1193 bytes  templates/overrides/semantic/mvc/wwwroot/css/sit\</tspan>
 <tspan x="10" y="1242">e.min.css</tspan>
-<tspan x="10" y="1258"> 46.  2017-04-19 04:34:37 +0000      878 bytes  templates/overrides/semantic/mvc/wwwroot/js/sema\</tspan>
+<tspan x="10" y="1258"> 46.  2017-04-25 20:53:55 +0000      878 bytes  templates/overrides/semantic/mvc/wwwroot/js/sema\</tspan>
 <tspan x="10" y="1274">ntic.validation.js</tspan>
-<tspan x="10" y="1290"> 47.  2017-04-19 04:34:37 +0000      448 bytes  templates/overrides/semantic/mvc/wwwroot/js/sema\</tspan>
+<tspan x="10" y="1290"> 47.  2017-04-25 20:53:55 +0000      448 bytes  templates/overrides/semantic/mvc/wwwroot/js/sema\</tspan>
 <tspan x="10" y="1306">ntic.validation.min.js</tspan>
-<tspan x="10" y="1322"> 48.  2017-04-19 04:34:37 +0000      437 bytes  templates/overrides/semantic/mvc/wwwroot/js/site\</tspan>
+<tspan x="10" y="1322"> 48.  2017-04-25 20:53:55 +0000      437 bytes  templates/overrides/semantic/mvc/wwwroot/js/site\</tspan>
 <tspan x="10" y="1338">.js</tspan>
-<tspan x="10" y="1354"> 49.  2017-04-19 04:34:37 +0000      686 bytes  templates/overrides/semantic/mvc/wwwroot/js/site\</tspan>
+<tspan x="10" y="1354"> 49.  2017-04-25 20:53:55 +0000      686 bytes  templates/overrides/semantic/mvc/wwwroot/js/site\</tspan>
 <tspan x="10" y="1370">.min.js</tspan>
-<tspan x="10" y="1386"> 50.  2017-04-19 04:34:37 +0000     3219 bytes  templates/overrides/semantic/mvcbasic/README.md</tspan>
-<tspan x="10" y="1402"> 51.  2017-04-19 04:34:37 +0000     2088 bytes  templates/overrides/semantic/mvcbasic/TagHelpers\</tspan>
+<tspan x="10" y="1386"> 50.  2017-04-25 20:53:55 +0000     3219 bytes  templates/overrides/semantic/mvcbasic/README.md</tspan>
+<tspan x="10" y="1402"> 51.  2017-04-25 20:53:55 +0000     2088 bytes  templates/overrides/semantic/mvcbasic/TagHelpers\</tspan>
 <tspan x="10" y="1418">/MenuLinkTagHelper.cs</tspan>
-<tspan x="10" y="1434"> 52.  2017-04-19 04:34:37 +0000      203 bytes  templates/overrides/semantic/mvcbasic/Views/Home\</tspan>
+<tspan x="10" y="1434"> 52.  2017-04-25 20:53:55 +0000      203 bytes  templates/overrides/semantic/mvcbasic/Views/Home\</tspan>
 <tspan x="10" y="1450">/About.cshtml</tspan>
-<tspan x="10" y="1466"> 53.  2017-04-19 04:34:37 +0000      295 bytes  templates/overrides/semantic/mvcbasic/Views/Home\</tspan>
+<tspan x="10" y="1466"> 53.  2017-04-25 20:53:55 +0000      295 bytes  templates/overrides/semantic/mvcbasic/Views/Home\</tspan>
 <tspan x="10" y="1482">/Contact.cshtml</tspan>
-<tspan x="10" y="1498"> 54.  2017-04-19 04:34:37 +0000     3861 bytes  templates/overrides/semantic/mvcbasic/Views/Home\</tspan>
+<tspan x="10" y="1498"> 54.  2017-04-25 20:53:55 +0000     3861 bytes  templates/overrides/semantic/mvcbasic/Views/Home\</tspan>
 <tspan x="10" y="1514">/Index.cshtml</tspan>
-<tspan x="10" y="1530"> 55.  2017-04-19 04:34:37 +0000      701 bytes  templates/overrides/semantic/mvcbasic/Views/Shar\</tspan>
+<tspan x="10" y="1530"> 55.  2017-04-25 20:53:55 +0000      701 bytes  templates/overrides/semantic/mvcbasic/Views/Shar\</tspan>
 <tspan x="10" y="1546">ed/Error.cshtml</tspan>
-<tspan x="10" y="1562"> 56.  2017-04-19 04:34:37 +0000     5060 bytes  templates/overrides/semantic/mvcbasic/Views/Shar\</tspan>
+<tspan x="10" y="1562"> 56.  2017-04-25 20:53:55 +0000     5060 bytes  templates/overrides/semantic/mvcbasic/Views/Shar\</tspan>
 <tspan x="10" y="1578">ed/_Layout.cshtml</tspan>
-<tspan x="10" y="1594"> 57.  2017-04-19 04:34:37 +0000      111 bytes  templates/overrides/semantic/mvcbasic/Views/_Vie\</tspan>
+<tspan x="10" y="1594"> 57.  2017-04-25 20:53:55 +0000      111 bytes  templates/overrides/semantic/mvcbasic/Views/_Vie\</tspan>
 <tspan x="10" y="1610">wImports.cshtml</tspan>
-<tspan x="10" y="1626"> 58.  2017-04-19 04:34:37 +0000      219 bytes  templates/overrides/semantic/mvcbasic/bower.json</tspan>
-<tspan x="10" y="1642"> 59.  2017-04-19 04:34:37 +0000      814 bytes  templates/overrides/semantic/mvcbasic/bundleconf\</tspan>
+<tspan x="10" y="1626"> 58.  2017-04-25 20:53:55 +0000      219 bytes  templates/overrides/semantic/mvcbasic/bower.json</tspan>
+<tspan x="10" y="1642"> 59.  2017-04-25 20:53:55 +0000      814 bytes  templates/overrides/semantic/mvcbasic/bundleconf\</tspan>
 <tspan x="10" y="1658">ig.json</tspan>
-<tspan x="10" y="1674"> 60.  2017-04-19 04:34:37 +0000     1644 bytes  templates/overrides/semantic/mvcbasic/wwwroot/cs\</tspan>
+<tspan x="10" y="1674"> 60.  2017-04-25 20:53:55 +0000     1644 bytes  templates/overrides/semantic/mvcbasic/wwwroot/cs\</tspan>
 <tspan x="10" y="1690">s/site.css</tspan>
-<tspan x="10" y="1706"> 61.  2017-04-19 04:34:37 +0000     1193 bytes  templates/overrides/semantic/mvcbasic/wwwroot/cs\</tspan>
+<tspan x="10" y="1706"> 61.  2017-04-25 20:53:55 +0000     1193 bytes  templates/overrides/semantic/mvcbasic/wwwroot/cs\</tspan>
 <tspan x="10" y="1722">s/site.min.css</tspan>
-<tspan x="10" y="1738"> 62.  2017-04-19 04:34:37 +0000      878 bytes  templates/overrides/semantic/mvcbasic/wwwroot/js\</tspan>
+<tspan x="10" y="1738"> 62.  2017-04-25 20:53:55 +0000      878 bytes  templates/overrides/semantic/mvcbasic/wwwroot/js\</tspan>
 <tspan x="10" y="1754">/semantic.validation.js</tspan>
-<tspan x="10" y="1770"> 63.  2017-04-19 04:34:37 +0000      448 bytes  templates/overrides/semantic/mvcbasic/wwwroot/js\</tspan>
+<tspan x="10" y="1770"> 63.  2017-04-25 20:53:55 +0000      448 bytes  templates/overrides/semantic/mvcbasic/wwwroot/js\</tspan>
 <tspan x="10" y="1786">/semantic.validation.min.js</tspan>
-<tspan x="10" y="1802"> 64.  2017-04-19 04:34:37 +0000      437 bytes  templates/overrides/semantic/mvcbasic/wwwroot/js\</tspan>
+<tspan x="10" y="1802"> 64.  2017-04-25 20:53:55 +0000      437 bytes  templates/overrides/semantic/mvcbasic/wwwroot/js\</tspan>
 <tspan x="10" y="1818">/site.js</tspan>
-<tspan x="10" y="1834"> 65.  2017-04-19 04:34:37 +0000      686 bytes  templates/overrides/semantic/mvcbasic/wwwroot/js\</tspan>
+<tspan x="10" y="1834"> 65.  2017-04-25 20:53:55 +0000      686 bytes  templates/overrides/semantic/mvcbasic/wwwroot/js\</tspan>
 <tspan x="10" y="1850">/site.min.js</tspan>
-<tspan x="10" y="1866"> 66.  2017-04-19 04:34:37 +0000       93 bytes  templates/projects/classlib/Class1.cs</tspan>
-<tspan x="10" y="1882"> 67.  2017-04-19 04:34:37 +0000      165 bytes  templates/projects/classlib/Company.ClassLibrary\</tspan>
+<tspan x="10" y="1866"> 66.  2017-04-25 20:53:55 +0000       93 bytes  templates/projects/classlib/Class1.cs</tspan>
+<tspan x="10" y="1882"> 67.  2017-04-25 20:53:55 +0000      165 bytes  templates/projects/classlib/Company.ClassLibrary\</tspan>
 <tspan x="10" y="1898">1.csproj</tspan>
-<tspan x="10" y="1914"> 68.  2017-04-19 04:34:37 +0000      214 bytes  templates/projects/console/Company.ConsoleApplic\</tspan>
+<tspan x="10" y="1914"> 68.  2017-04-25 20:53:55 +0000      214 bytes  templates/projects/console/Company.ConsoleApplic\</tspan>
 <tspan x="10" y="1930">ation1.csproj</tspan>
-<tspan x="10" y="1946"> 69.  2017-04-19 04:34:37 +0000      145 bytes  templates/projects/console/Program.cs</tspan>
-<tspan x="10" y="1962"> 70.  2017-04-19 04:34:37 +0000      813 bytes  templates/projects/fsharp_classlib/Company.Class\</tspan>
+<tspan x="10" y="1946"> 69.  2017-04-25 20:53:55 +0000      145 bytes  templates/projects/console/Program.cs</tspan>
+<tspan x="10" y="1962"> 70.  2017-04-25 20:53:55 +0000      813 bytes  templates/projects/fsharp_classlib/Company.Class\</tspan>
 <tspan x="10" y="1978">Library1.fsproj</tspan>
-<tspan x="10" y="1994"> 71.  2017-04-19 04:34:37 +0000       94 bytes  templates/projects/fsharp_classlib/Library.fs</tspan>
-<tspan x="10" y="2010"> 72.  2017-04-19 04:34:37 +0000      861 bytes  templates/projects/fsharp_console/Company.Consol\</tspan>
+<tspan x="10" y="1994"> 71.  2017-04-25 20:53:55 +0000       94 bytes  templates/projects/fsharp_classlib/Library.fs</tspan>
+<tspan x="10" y="2010"> 72.  2017-04-25 20:53:55 +0000      861 bytes  templates/projects/fsharp_console/Company.Consol\</tspan>
 <tspan x="10" y="2026">eApplication1.fsproj</tspan>
-<tspan x="10" y="2042"> 73.  2017-04-19 04:34:37 +0000      165 bytes  templates/projects/fsharp_console/Program.fs</tspan>
-<tspan x="10" y="2058"> 74.  2017-04-19 04:34:37 +0000     1063 bytes  templates/projects/fsharp_mstest/Company.TestPro\</tspan>
+<tspan x="10" y="2042"> 73.  2017-04-25 20:53:55 +0000      165 bytes  templates/projects/fsharp_console/Program.fs</tspan>
+<tspan x="10" y="2058"> 74.  2017-04-25 20:53:55 +0000     1063 bytes  templates/projects/fsharp_mstest/Company.TestPro\</tspan>
 <tspan x="10" y="2074">ject1.fsproj</tspan>
-<tspan x="10" y="2090"> 75.  2017-04-19 04:34:37 +0000      202 bytes  templates/projects/fsharp_mstest/Tests.fs</tspan>
-<tspan x="10" y="2106"> 76.  2017-04-19 04:34:37 +0000      115 bytes  templates/projects/fsharp_mstest/xunit.runner.js\</tspan>
+<tspan x="10" y="2090"> 75.  2017-04-25 20:53:55 +0000      202 bytes  templates/projects/fsharp_mstest/Tests.fs</tspan>
+<tspan x="10" y="2106"> 76.  2017-04-25 20:53:55 +0000      115 bytes  templates/projects/fsharp_mstest/xunit.runner.js\</tspan>
 <tspan x="10" y="2122">on</tspan>
-<tspan x="10" y="2138"> 77.  2017-04-19 04:34:37 +0000     2264 bytes  templates/projects/fsharp_mvcbasic/Company.WebAp\</tspan>
+<tspan x="10" y="2138"> 77.  2017-04-25 20:53:55 +0000     2264 bytes  templates/projects/fsharp_mvcbasic/Company.WebAp\</tspan>
 <tspan x="10" y="2154">plication1.fsproj</tspan>
-<tspan x="10" y="2170"> 78.  2017-04-19 04:34:37 +0000      540 bytes  templates/projects/fsharp_mvcbasic/Controllers/H\</tspan>
+<tspan x="10" y="2170"> 78.  2017-04-25 20:53:55 +0000      540 bytes  templates/projects/fsharp_mvcbasic/Controllers/H\</tspan>
 <tspan x="10" y="2186">omeController.fs</tspan>
-<tspan x="10" y="2202"> 79.  2017-04-19 04:34:37 +0000      588 bytes  templates/projects/fsharp_mvcbasic/Program.fs</tspan>
-<tspan x="10" y="2218"> 80.  2017-04-19 04:34:37 +0000      622 bytes  templates/projects/fsharp_mvcbasic/Properties/la\</tspan>
+<tspan x="10" y="2202"> 79.  2017-04-25 20:53:55 +0000      588 bytes  templates/projects/fsharp_mvcbasic/Program.fs</tspan>
+<tspan x="10" y="2218"> 80.  2017-04-25 20:53:55 +0000      622 bytes  templates/projects/fsharp_mvcbasic/Properties/la\</tspan>
 <tspan x="10" y="2234">unchSettings.json</tspan>
-<tspan x="10" y="2250"> 81.  2017-04-19 04:34:37 +0000     2131 bytes  templates/projects/fsharp_mvcbasic/README.md</tspan>
-<tspan x="10" y="2266"> 82.  2017-04-19 04:34:37 +0000     1895 bytes  templates/projects/fsharp_mvcbasic/Startup.fs</tspan>
-<tspan x="10" y="2282"> 83.  2017-04-19 04:34:37 +0000      157 bytes  templates/projects/fsharp_mvcbasic/Views/Home/Ab\</tspan>
+<tspan x="10" y="2250"> 81.  2017-04-25 20:53:55 +0000     2131 bytes  templates/projects/fsharp_mvcbasic/README.md</tspan>
+<tspan x="10" y="2266"> 82.  2017-04-25 20:53:55 +0000     1895 bytes  templates/projects/fsharp_mvcbasic/Startup.fs</tspan>
+<tspan x="10" y="2282"> 83.  2017-04-25 20:53:55 +0000      157 bytes  templates/projects/fsharp_mvcbasic/Views/Home/Ab\</tspan>
 <tspan x="10" y="2298">out.cshtml</tspan>
-<tspan x="10" y="2314"> 84.  2017-04-19 04:34:37 +0000      452 bytes  templates/projects/fsharp_mvcbasic/Views/Home/Co\</tspan>
+<tspan x="10" y="2314"> 84.  2017-04-25 20:53:55 +0000      452 bytes  templates/projects/fsharp_mvcbasic/Views/Home/Co\</tspan>
 <tspan x="10" y="2330">ntact.cshtml</tspan>
-<tspan x="10" y="2346"> 85.  2017-04-19 04:34:37 +0000     5575 bytes  templates/projects/fsharp_mvcbasic/Views/Home/In\</tspan>
+<tspan x="10" y="2346"> 85.  2017-04-25 20:53:55 +0000     5575 bytes  templates/projects/fsharp_mvcbasic/Views/Home/In\</tspan>
 <tspan x="10" y="2362">dex.cshtml</tspan>
-<tspan x="10" y="2378"> 86.  2017-04-19 04:34:37 +0000      710 bytes  templates/projects/fsharp_mvcbasic/Views/Shared/\</tspan>
+<tspan x="10" y="2378"> 86.  2017-04-25 20:53:55 +0000      710 bytes  templates/projects/fsharp_mvcbasic/Views/Shared/\</tspan>
 <tspan x="10" y="2394">Error.cshtml</tspan>
-<tspan x="10" y="2410"> 87.  2017-04-19 04:34:37 +0000     3347 bytes  templates/projects/fsharp_mvcbasic/Views/Shared/\</tspan>
+<tspan x="10" y="2410"> 87.  2017-04-25 20:53:55 +0000     3347 bytes  templates/projects/fsharp_mvcbasic/Views/Shared/\</tspan>
 <tspan x="10" y="2426">_Layout.cshtml</tspan>
-<tspan x="10" y="2442"> 88.  2017-04-19 04:34:37 +0000     1160 bytes  templates/projects/fsharp_mvcbasic/Views/Shared/\</tspan>
+<tspan x="10" y="2442"> 88.  2017-04-25 20:53:55 +0000     1160 bytes  templates/projects/fsharp_mvcbasic/Views/Shared/\</tspan>
 <tspan x="10" y="2458">_ValidationScriptsPartial.cshtml</tspan>
-<tspan x="10" y="2474"> 89.  2017-04-19 04:34:37 +0000       80 bytes  templates/projects/fsharp_mvcbasic/Views/_ViewIm\</tspan>
+<tspan x="10" y="2474"> 89.  2017-04-25 20:53:55 +0000       80 bytes  templates/projects/fsharp_mvcbasic/Views/_ViewIm\</tspan>
 <tspan x="10" y="2490">ports.cshtml</tspan>
-<tspan x="10" y="2506"> 90.  2017-04-19 04:34:37 +0000       32 bytes  templates/projects/fsharp_mvcbasic/Views/_ViewSt\</tspan>
+<tspan x="10" y="2506"> 90.  2017-04-25 20:53:55 +0000       32 bytes  templates/projects/fsharp_mvcbasic/Views/_ViewSt\</tspan>
 <tspan x="10" y="2522">art.cshtml</tspan>
-<tspan x="10" y="2538"> 91.  2017-04-19 04:34:37 +0000      168 bytes  templates/projects/fsharp_mvcbasic/appsettings.D\</tspan>
+<tspan x="10" y="2538"> 91.  2017-04-25 20:53:55 +0000      168 bytes  templates/projects/fsharp_mvcbasic/appsettings.D\</tspan>
 <tspan x="10" y="2554">evelopment.json</tspan>
-<tspan x="10" y="2570"> 92.  2017-04-19 04:34:37 +0000      105 bytes  templates/projects/fsharp_mvcbasic/appsettings.j\</tspan>
+<tspan x="10" y="2570"> 92.  2017-04-25 20:53:55 +0000      105 bytes  templates/projects/fsharp_mvcbasic/appsettings.j\</tspan>
 <tspan x="10" y="2586">son</tspan>
-<tspan x="10" y="2602"> 93.  2017-04-19 04:34:37 +0000      220 bytes  templates/projects/fsharp_mvcbasic/bower.json</tspan>
-<tspan x="10" y="2618"> 94.  2017-04-19 04:34:37 +0000      604 bytes  templates/projects/fsharp_mvcbasic/bundleconfig.\</tspan>
+<tspan x="10" y="2602"> 93.  2017-04-25 20:53:55 +0000      220 bytes  templates/projects/fsharp_mvcbasic/bower.json</tspan>
+<tspan x="10" y="2618"> 94.  2017-04-25 20:53:55 +0000      604 bytes  templates/projects/fsharp_mvcbasic/bundleconfig.\</tspan>
 <tspan x="10" y="2634">json</tspan>
-<tspan x="10" y="2650"> 95.  2017-04-19 04:34:37 +0000      682 bytes  templates/projects/fsharp_mvcbasic/web.config</tspan>
-<tspan x="10" y="2666"> 96.  2017-04-19 04:34:37 +0000      718 bytes  templates/projects/fsharp_mvcbasic/wwwroot/css/s\</tspan>
+<tspan x="10" y="2650"> 95.  2017-04-25 20:53:55 +0000      682 bytes  templates/projects/fsharp_mvcbasic/web.config</tspan>
+<tspan x="10" y="2666"> 96.  2017-04-25 20:53:55 +0000      718 bytes  templates/projects/fsharp_mvcbasic/wwwroot/css/s\</tspan>
 <tspan x="10" y="2682">ite.css</tspan>
-<tspan x="10" y="2698"> 97.  2017-04-19 04:34:37 +0000      300 bytes  templates/projects/fsharp_mvcbasic/wwwroot/css/s\</tspan>
+<tspan x="10" y="2698"> 97.  2017-04-25 20:53:55 +0000      300 bytes  templates/projects/fsharp_mvcbasic/wwwroot/css/s\</tspan>
 <tspan x="10" y="2714">ite.min.css</tspan>
-<tspan x="10" y="2730"> 98.  2017-04-19 04:34:37 +0000    32038 bytes  templates/projects/fsharp_mvcbasic/wwwroot/favic\</tspan>
+<tspan x="10" y="2730"> 98.  2017-04-25 20:53:55 +0000    32038 bytes  templates/projects/fsharp_mvcbasic/wwwroot/favic\</tspan>
 <tspan x="10" y="2746">on.ico</tspan>
-<tspan x="10" y="2762"> 99.  2017-04-19 04:34:37 +0000     9679 bytes  templates/projects/fsharp_mvcbasic/wwwroot/image\</tspan>
+<tspan x="10" y="2762"> 99.  2017-04-25 20:53:55 +0000     9679 bytes  templates/projects/fsharp_mvcbasic/wwwroot/image\</tspan>
 <tspan x="10" y="2778">s/banner1.svg</tspan>
-<tspan x="10" y="2794">100.  2017-04-19 04:34:37 +0000     8394 bytes  templates/projects/fsharp_mvcbasic/wwwroot/image\</tspan>
+<tspan x="10" y="2794">100.  2017-04-25 20:53:55 +0000     8394 bytes  templates/projects/fsharp_mvcbasic/wwwroot/image\</tspan>
 <tspan x="10" y="2810">s/banner2.svg</tspan>
-<tspan x="10" y="2826">101.  2017-04-19 04:34:37 +0000    10872 bytes  templates/projects/fsharp_mvcbasic/wwwroot/image\</tspan>
+<tspan x="10" y="2826">101.  2017-04-25 20:53:55 +0000    10872 bytes  templates/projects/fsharp_mvcbasic/wwwroot/image\</tspan>
 <tspan x="10" y="2842">s/banner3.svg</tspan>
-<tspan x="10" y="2858">102.  2017-04-19 04:34:37 +0000    12291 bytes  templates/projects/fsharp_mvcbasic/wwwroot/image\</tspan>
+<tspan x="10" y="2858">102.  2017-04-25 20:53:55 +0000    12291 bytes  templates/projects/fsharp_mvcbasic/wwwroot/image\</tspan>
 <tspan x="10" y="2874">s/banner4.svg</tspan>
-<tspan x="10" y="2890">103.  2017-04-19 04:34:37 +0000       34 bytes  templates/projects/fsharp_mvcbasic/wwwroot/js/si\</tspan>
+<tspan x="10" y="2890">103.  2017-04-25 20:53:55 +0000       34 bytes  templates/projects/fsharp_mvcbasic/wwwroot/js/si\</tspan>
 <tspan x="10" y="2906">te.js</tspan>
-<tspan x="10" y="2922">104.  2017-04-19 04:34:37 +0000        0 bytes  templates/projects/fsharp_mvcbasic/wwwroot/js/si\</tspan>
+<tspan x="10" y="2922">104.  2017-04-25 20:53:55 +0000        0 bytes  templates/projects/fsharp_mvcbasic/wwwroot/js/si\</tspan>
 <tspan x="10" y="2938">te.min.js</tspan>
-<tspan x="10" y="2954">105.  2017-04-19 04:34:37 +0000     1721 bytes  templates/projects/fsharp_web/Company.WebApplica\</tspan>
+<tspan x="10" y="2954">105.  2017-04-25 20:53:55 +0000     1721 bytes  templates/projects/fsharp_web/Company.WebApplica\</tspan>
 <tspan x="10" y="2970">tion1.fsproj</tspan>
-<tspan x="10" y="2986">106.  2017-04-19 04:34:37 +0000      583 bytes  templates/projects/fsharp_web/Program.fs</tspan>
-<tspan x="10" y="3002">107.  2017-04-19 04:34:37 +0000      249 bytes  templates/projects/fsharp_web/Properties/launchS\</tspan>
+<tspan x="10" y="2986">106.  2017-04-25 20:53:55 +0000      583 bytes  templates/projects/fsharp_web/Program.fs</tspan>
+<tspan x="10" y="3002">107.  2017-04-25 20:53:55 +0000      249 bytes  templates/projects/fsharp_web/Properties/launchS\</tspan>
 <tspan x="10" y="3018">ettings.json</tspan>
-<tspan x="10" y="3034">108.  2017-04-19 04:34:37 +0000     2131 bytes  templates/projects/fsharp_web/README.md</tspan>
-<tspan x="10" y="3050">109.  2017-04-19 04:34:37 +0000     1098 bytes  templates/projects/fsharp_web/Startup.fs</tspan>
-<tspan x="10" y="3066">110.  2017-04-19 04:34:37 +0000       69 bytes  templates/projects/fsharp_web/runtimeconfig.temp\</tspan>
+<tspan x="10" y="3034">108.  2017-04-25 20:53:55 +0000     2131 bytes  templates/projects/fsharp_web/README.md</tspan>
+<tspan x="10" y="3050">109.  2017-04-25 20:53:55 +0000     1098 bytes  templates/projects/fsharp_web/Startup.fs</tspan>
+<tspan x="10" y="3066">110.  2017-04-25 20:53:55 +0000       69 bytes  templates/projects/fsharp_web/runtimeconfig.temp\</tspan>
 <tspan x="10" y="3082">late.json</tspan>
-<tspan x="10" y="3098">111.  2017-04-19 04:34:37 +0000      679 bytes  templates/projects/fsharp_web/web.config</tspan>
-<tspan x="10" y="3114">112.  2017-04-19 04:34:37 +0000     2508 bytes  templates/projects/fsharp_webapi/Company.WebAppl\</tspan>
+<tspan x="10" y="3098">111.  2017-04-25 20:53:55 +0000      679 bytes  templates/projects/fsharp_web/web.config</tspan>
+<tspan x="10" y="3114">112.  2017-04-25 20:53:55 +0000     2508 bytes  templates/projects/fsharp_webapi/Company.WebAppl\</tspan>
 <tspan x="10" y="3130">ication1.fsproj</tspan>
-<tspan x="10" y="3146">113.  2017-04-19 04:34:37 +0000      713 bytes  templates/projects/fsharp_webapi/Controllers/Val\</tspan>
+<tspan x="10" y="3146">113.  2017-04-25 20:53:55 +0000      713 bytes  templates/projects/fsharp_webapi/Controllers/Val\</tspan>
 <tspan x="10" y="3162">uesController.fs</tspan>
-<tspan x="10" y="3178">114.  2017-04-19 04:34:37 +0000      812 bytes  templates/projects/fsharp_webapi/Program.fs</tspan>
-<tspan x="10" y="3194">115.  2017-04-19 04:34:37 +0000      697 bytes  templates/projects/fsharp_webapi/Properties/laun\</tspan>
+<tspan x="10" y="3178">114.  2017-04-25 20:53:55 +0000      812 bytes  templates/projects/fsharp_webapi/Program.fs</tspan>
+<tspan x="10" y="3194">115.  2017-04-25 20:53:55 +0000      697 bytes  templates/projects/fsharp_webapi/Properties/laun\</tspan>
 <tspan x="10" y="3210">chSettings.json</tspan>
-<tspan x="10" y="3226">116.  2017-04-19 04:34:37 +0000     2131 bytes  templates/projects/fsharp_webapi/README.md</tspan>
-<tspan x="10" y="3242">117.  2017-04-19 04:34:37 +0000     1309 bytes  templates/projects/fsharp_webapi/Startup.fs</tspan>
-<tspan x="10" y="3258">118.  2017-04-19 04:34:37 +0000      168 bytes  templates/projects/fsharp_webapi/appsettings.Dev\</tspan>
+<tspan x="10" y="3226">116.  2017-04-25 20:53:55 +0000     2131 bytes  templates/projects/fsharp_webapi/README.md</tspan>
+<tspan x="10" y="3242">117.  2017-04-25 20:53:55 +0000     1309 bytes  templates/projects/fsharp_webapi/Startup.fs</tspan>
+<tspan x="10" y="3258">118.  2017-04-25 20:53:55 +0000      168 bytes  templates/projects/fsharp_webapi/appsettings.Dev\</tspan>
 <tspan x="10" y="3274">elopment.json</tspan>
-<tspan x="10" y="3290">119.  2017-04-19 04:34:37 +0000      105 bytes  templates/projects/fsharp_webapi/appsettings.jso\</tspan>
+<tspan x="10" y="3290">119.  2017-04-25 20:53:55 +0000      105 bytes  templates/projects/fsharp_webapi/appsettings.jso\</tspan>
 <tspan x="10" y="3306">n</tspan>
-<tspan x="10" y="3322">120.  2017-04-19 04:34:37 +0000       69 bytes  templates/projects/fsharp_webapi/runtimeconfig.t\</tspan>
+<tspan x="10" y="3322">120.  2017-04-25 20:53:55 +0000       69 bytes  templates/projects/fsharp_webapi/runtimeconfig.t\</tspan>
 <tspan x="10" y="3338">emplate.json</tspan>
-<tspan x="10" y="3354">121.  2017-04-19 04:34:37 +0000      552 bytes  templates/projects/fsharp_webapi/web.config</tspan>
-<tspan x="10" y="3370">122.  2017-04-19 04:34:37 +0000     1081 bytes  templates/projects/fsharp_xunit/Company.TestProj\</tspan>
+<tspan x="10" y="3354">121.  2017-04-25 20:53:55 +0000      552 bytes  templates/projects/fsharp_webapi/web.config</tspan>
+<tspan x="10" y="3370">122.  2017-04-25 20:53:55 +0000     1081 bytes  templates/projects/fsharp_xunit/Company.TestProj\</tspan>
 <tspan x="10" y="3386">ect1.fsproj</tspan>
-<tspan x="10" y="3402">123.  2017-04-19 04:34:37 +0000       90 bytes  templates/projects/fsharp_xunit/Tests.fs</tspan>
-<tspan x="10" y="3418">124.  2017-04-19 04:34:37 +0000      115 bytes  templates/projects/fsharp_xunit/xunit.runner.jso\</tspan>
+<tspan x="10" y="3402">123.  2017-04-25 20:53:55 +0000       90 bytes  templates/projects/fsharp_xunit/Tests.fs</tspan>
+<tspan x="10" y="3418">124.  2017-04-25 20:53:55 +0000      115 bytes  templates/projects/fsharp_xunit/xunit.runner.jso\</tspan>
 <tspan x="10" y="3434">n</tspan>
-<tspan x="10" y="3450">125.  2017-04-19 04:34:37 +0000      506 bytes  templates/projects/mstest/Company.TestProject1.c\</tspan>
+<tspan x="10" y="3450">125.  2017-04-25 20:53:55 +0000      506 bytes  templates/projects/mstest/Company.TestProject1.c\</tspan>
 <tspan x="10" y="3466">sproj</tspan>
-<tspan x="10" y="3482">126.  2017-04-19 04:34:37 +0000      242 bytes  templates/projects/mstest/UnitTest1.cs</tspan>
-<tspan x="10" y="3498">127.  2017-04-19 04:34:37 +0000     4622 bytes  templates/projects/mvc/Company.WebApplication1.c\</tspan>
+<tspan x="10" y="3482">126.  2017-04-25 20:53:55 +0000      242 bytes  templates/projects/mstest/UnitTest1.cs</tspan>
+<tspan x="10" y="3498">127.  2017-04-25 20:53:55 +0000     4622 bytes  templates/projects/mvc/Company.WebApplication1.c\</tspan>
 <tspan x="10" y="3514">sproj</tspan>
-<tspan x="10" y="3530">128.  2017-04-19 04:34:37 +0000     4096 bytes  templates/projects/mvc/Company.WebApplication1.d\</tspan>
+<tspan x="10" y="3530">128.  2017-04-25 20:53:55 +0000     4096 bytes  templates/projects/mvc/Company.WebApplication1.d\</tspan>
 <tspan x="10" y="3546">b</tspan>
-<tspan x="10" y="3562">129.  2017-04-19 04:34:37 +0000    18126 bytes  templates/projects/mvc/Controllers/AccountContro\</tspan>
+<tspan x="10" y="3562">129.  2017-04-25 20:53:55 +0000    18126 bytes  templates/projects/mvc/Controllers/AccountContro\</tspan>
 <tspan x="10" y="3578">ller.cs</tspan>
-<tspan x="10" y="3594">130.  2017-04-19 04:34:37 +0000      704 bytes  templates/projects/mvc/Controllers/HomeControlle\</tspan>
+<tspan x="10" y="3594">130.  2017-04-25 20:53:55 +0000      704 bytes  templates/projects/mvc/Controllers/HomeControlle\</tspan>
 <tspan x="10" y="3610">r.cs</tspan>
-<tspan x="10" y="3626">131.  2017-04-19 04:34:37 +0000    14297 bytes  templates/projects/mvc/Controllers/ManageControl\</tspan>
+<tspan x="10" y="3626">131.  2017-04-25 20:53:55 +0000    14297 bytes  templates/projects/mvc/Controllers/ManageControl\</tspan>
 <tspan x="10" y="3642">ler.cs</tspan>
-<tspan x="10" y="3658">132.  2017-04-19 04:34:37 +0000      874 bytes  templates/projects/mvc/Data/ApplicationDbContext\</tspan>
+<tspan x="10" y="3658">132.  2017-04-25 20:53:55 +0000      874 bytes  templates/projects/mvc/Data/ApplicationDbContext\</tspan>
 <tspan x="10" y="3674">.cs</tspan>
-<tspan x="10" y="3690">133.  2017-04-19 04:34:37 +0000     7243 bytes  templates/projects/mvc/Data/Migrations/000000000\</tspan>
+<tspan x="10" y="3690">133.  2017-04-25 20:53:55 +0000     7243 bytes  templates/projects/mvc/Data/Migrations/000000000\</tspan>
 <tspan x="10" y="3706">00000_CreateIdentitySchema.Designer.cs</tspan>
-<tspan x="10" y="3722">134.  2017-04-19 04:34:37 +0000     9031 bytes  templates/projects/mvc/Data/Migrations/000000000\</tspan>
+<tspan x="10" y="3722">134.  2017-04-25 20:53:55 +0000     9031 bytes  templates/projects/mvc/Data/Migrations/000000000\</tspan>
 <tspan x="10" y="3738">00000_CreateIdentitySchema.cs</tspan>
-<tspan x="10" y="3754">135.  2017-04-19 04:34:37 +0000     7211 bytes  templates/projects/mvc/Data/Migrations/Applicati\</tspan>
+<tspan x="10" y="3754">135.  2017-04-25 20:53:55 +0000     7211 bytes  templates/projects/mvc/Data/Migrations/Applicati\</tspan>
 <tspan x="10" y="3770">onDbContextModelSnapshot.cs</tspan>
-<tspan x="10" y="3786">136.  2017-04-19 04:34:37 +0000      347 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
+<tspan x="10" y="3786">136.  2017-04-25 20:53:55 +0000      347 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
 <tspan x="10" y="3802">ExternalLoginConfirmationViewModel.cs</tspan>
-<tspan x="10" y="3818">137.  2017-04-19 04:34:37 +0000      339 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
+<tspan x="10" y="3818">137.  2017-04-25 20:53:55 +0000      339 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
 <tspan x="10" y="3834">ForgotPasswordViewModel.cs</tspan>
-<tspan x="10" y="3850">138.  2017-04-19 04:34:37 +0000      520 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
+<tspan x="10" y="3850">138.  2017-04-25 20:53:55 +0000      520 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
 <tspan x="10" y="3866">LoginViewModel.cs</tspan>
-<tspan x="10" y="3882">139.  2017-04-19 04:34:37 +0000      870 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
+<tspan x="10" y="3882">139.  2017-04-25 20:53:55 +0000      870 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
 <tspan x="10" y="3898">RegisterViewModel.cs</tspan>
-<tspan x="10" y="3914">140.  2017-04-19 04:34:37 +0000      846 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
+<tspan x="10" y="3914">140.  2017-04-25 20:53:55 +0000      846 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
 <tspan x="10" y="3930">ResetPasswordViewModel.cs</tspan>
-<tspan x="10" y="3946">141.  2017-04-19 04:34:37 +0000      460 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
+<tspan x="10" y="3946">141.  2017-04-25 20:53:55 +0000      460 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
 <tspan x="10" y="3962">SendCodeViewModel.cs</tspan>
-<tspan x="10" y="3978">142.  2017-04-19 04:34:37 +0000      612 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
+<tspan x="10" y="3978">142.  2017-04-25 20:53:55 +0000      612 bytes  templates/projects/mvc/Models/AccountViewModels/\</tspan>
 <tspan x="10" y="3994">VerifyCodeViewModel.cs</tspan>
-<tspan x="10" y="4010">143.  2017-04-19 04:34:37 +0000      352 bytes  templates/projects/mvc/Models/ApplicationUser.cs</tspan>
-<tspan x="10" y="4026">144.  2017-04-19 04:34:37 +0000      378 bytes  templates/projects/mvc/Models/ManageViewModels/A\</tspan>
+<tspan x="10" y="4010">143.  2017-04-25 20:53:55 +0000      352 bytes  templates/projects/mvc/Models/ApplicationUser.cs</tspan>
+<tspan x="10" y="4026">144.  2017-04-25 20:53:55 +0000      378 bytes  templates/projects/mvc/Models/ManageViewModels/A\</tspan>
 <tspan x="10" y="4042">ddPhoneNumberViewModel.cs</tspan>
-<tspan x="10" y="4058">145.  2017-04-19 04:34:37 +0000      925 bytes  templates/projects/mvc/Models/ManageViewModels/C\</tspan>
+<tspan x="10" y="4058">145.  2017-04-25 20:53:55 +0000      925 bytes  templates/projects/mvc/Models/ManageViewModels/C\</tspan>
 <tspan x="10" y="4074">hangePasswordViewModel.cs</tspan>
-<tspan x="10" y="4090">146.  2017-04-19 04:34:37 +0000      376 bytes  templates/projects/mvc/Models/ManageViewModels/C\</tspan>
+<tspan x="10" y="4090">146.  2017-04-25 20:53:55 +0000      376 bytes  templates/projects/mvc/Models/ManageViewModels/C\</tspan>
 <tspan x="10" y="4106">onfigureTwoFactorViewModel.cs</tspan>
-<tspan x="10" y="4122">147.  2017-04-19 04:34:37 +0000      245 bytes  templates/projects/mvc/Models/ManageViewModels/F\</tspan>
+<tspan x="10" y="4122">147.  2017-04-25 20:53:55 +0000      245 bytes  templates/projects/mvc/Models/ManageViewModels/F\</tspan>
 <tspan x="10" y="4138">actorViewModel.cs</tspan>
-<tspan x="10" y="4154">148.  2017-04-19 04:34:37 +0000      488 bytes  templates/projects/mvc/Models/ManageViewModels/I\</tspan>
+<tspan x="10" y="4154">148.  2017-04-25 20:53:55 +0000      488 bytes  templates/projects/mvc/Models/ManageViewModels/I\</tspan>
 <tspan x="10" y="4170">ndexViewModel.cs</tspan>
-<tspan x="10" y="4186">149.  2017-04-19 04:34:37 +0000      431 bytes  templates/projects/mvc/Models/ManageViewModels/M\</tspan>
+<tspan x="10" y="4186">149.  2017-04-25 20:53:55 +0000      431 bytes  templates/projects/mvc/Models/ManageViewModels/M\</tspan>
 <tspan x="10" y="4202">anageLoginsViewModel.cs</tspan>
-<tspan x="10" y="4218">150.  2017-04-19 04:34:37 +0000      349 bytes  templates/projects/mvc/Models/ManageViewModels/R\</tspan>
+<tspan x="10" y="4218">150.  2017-04-25 20:53:55 +0000      349 bytes  templates/projects/mvc/Models/ManageViewModels/R\</tspan>
 <tspan x="10" y="4234">emoveLoginViewModel.cs</tspan>
-<tspan x="10" y="4250">151.  2017-04-19 04:34:37 +0000      771 bytes  templates/projects/mvc/Models/ManageViewModels/S\</tspan>
+<tspan x="10" y="4250">151.  2017-04-25 20:53:55 +0000      771 bytes  templates/projects/mvc/Models/ManageViewModels/S\</tspan>
 <tspan x="10" y="4266">etPasswordViewModel.cs</tspan>
-<tspan x="10" y="4282">152.  2017-04-19 04:34:37 +0000      442 bytes  templates/projects/mvc/Models/ManageViewModels/V\</tspan>
+<tspan x="10" y="4282">152.  2017-04-25 20:53:55 +0000      442 bytes  templates/projects/mvc/Models/ManageViewModels/V\</tspan>
 <tspan x="10" y="4298">erifyPhoneNumberViewModel.cs</tspan>
-<tspan x="10" y="4314">153.  2017-04-19 04:34:37 +0000      641 bytes  templates/projects/mvc/Program.cs</tspan>
-<tspan x="10" y="4330">154.  2017-04-19 04:34:37 +0000      621 bytes  templates/projects/mvc/Properties/launchSettings\</tspan>
+<tspan x="10" y="4314">153.  2017-04-25 20:53:55 +0000      641 bytes  templates/projects/mvc/Program.cs</tspan>
+<tspan x="10" y="4330">154.  2017-04-25 20:53:55 +0000      621 bytes  templates/projects/mvc/Properties/launchSettings\</tspan>
 <tspan x="10" y="4346">.json</tspan>
-<tspan x="10" y="4362">155.  2017-04-19 04:34:37 +0000     2131 bytes  templates/projects/mvc/README.md</tspan>
-<tspan x="10" y="4378">156.  2017-04-19 04:34:37 +0000      262 bytes  templates/projects/mvc/Services/IEmailSender.cs</tspan>
-<tspan x="10" y="4394">157.  2017-04-19 04:34:37 +0000      243 bytes  templates/projects/mvc/Services/ISmsSender.cs</tspan>
-<tspan x="10" y="4410">158.  2017-04-19 04:34:37 +0000      836 bytes  templates/projects/mvc/Services/MessageServices.\</tspan>
+<tspan x="10" y="4362">155.  2017-04-25 20:53:55 +0000     2131 bytes  templates/projects/mvc/README.md</tspan>
+<tspan x="10" y="4378">156.  2017-04-25 20:53:55 +0000      262 bytes  templates/projects/mvc/Services/IEmailSender.cs</tspan>
+<tspan x="10" y="4394">157.  2017-04-25 20:53:55 +0000      243 bytes  templates/projects/mvc/Services/ISmsSender.cs</tspan>
+<tspan x="10" y="4410">158.  2017-04-25 20:53:55 +0000      836 bytes  templates/projects/mvc/Services/MessageServices.\</tspan>
 <tspan x="10" y="4426">cs</tspan>
-<tspan x="10" y="4442">159.  2017-04-19 04:34:37 +0000     3126 bytes  templates/projects/mvc/Startup.cs</tspan>
-<tspan x="10" y="4458">160.  2017-04-19 04:34:37 +0000      234 bytes  templates/projects/mvc/Views/Account/ConfirmEmai\</tspan>
+<tspan x="10" y="4442">159.  2017-04-25 20:53:55 +0000     3126 bytes  templates/projects/mvc/Startup.cs</tspan>
+<tspan x="10" y="4458">160.  2017-04-25 20:53:55 +0000      234 bytes  templates/projects/mvc/Views/Account/ConfirmEmai\</tspan>
 <tspan x="10" y="4474">l.cshtml</tspan>
-<tspan x="10" y="4490">161.  2017-04-19 04:34:37 +0000     1248 bytes  templates/projects/mvc/Views/Account/ExternalLog\</tspan>
+<tspan x="10" y="4490">161.  2017-04-25 20:53:55 +0000     1248 bytes  templates/projects/mvc/Views/Account/ExternalLog\</tspan>
 <tspan x="10" y="4506">inConfirmation.cshtml</tspan>
-<tspan x="10" y="4522">162.  2017-04-19 04:34:37 +0000      166 bytes  templates/projects/mvc/Views/Account/ExternalLog\</tspan>
+<tspan x="10" y="4522">162.  2017-04-25 20:53:55 +0000      166 bytes  templates/projects/mvc/Views/Account/ExternalLog\</tspan>
 <tspan x="10" y="4538">inFailure.cshtml</tspan>
-<tspan x="10" y="4554">163.  2017-04-19 04:34:37 +0000     1045 bytes  templates/projects/mvc/Views/Account/ForgotPassw\</tspan>
+<tspan x="10" y="4554">163.  2017-04-25 20:53:55 +0000     1045 bytes  templates/projects/mvc/Views/Account/ForgotPassw\</tspan>
 <tspan x="10" y="4570">ord.cshtml</tspan>
-<tspan x="10" y="4586">164.  2017-04-19 04:34:37 +0000      155 bytes  templates/projects/mvc/Views/Account/ForgotPassw\</tspan>
+<tspan x="10" y="4586">164.  2017-04-25 20:53:55 +0000      155 bytes  templates/projects/mvc/Views/Account/ForgotPassw\</tspan>
 <tspan x="10" y="4602">ordConfirmation.cshtml</tspan>
-<tspan x="10" y="4618">165.  2017-04-19 04:34:37 +0000      200 bytes  templates/projects/mvc/Views/Account/Lockout.csh\</tspan>
+<tspan x="10" y="4618">165.  2017-04-25 20:53:55 +0000      200 bytes  templates/projects/mvc/Views/Account/Lockout.csh\</tspan>
 <tspan x="10" y="4634">tml</tspan>
-<tspan x="10" y="4650">166.  2017-04-19 04:34:37 +0000     4002 bytes  templates/projects/mvc/Views/Account/Login.cshtm\</tspan>
+<tspan x="10" y="4650">166.  2017-04-25 20:53:55 +0000     4002 bytes  templates/projects/mvc/Views/Account/Login.cshtm\</tspan>
 <tspan x="10" y="4666">l</tspan>
-<tspan x="10" y="4682">167.  2017-04-19 04:34:37 +0000     1535 bytes  templates/projects/mvc/Views/Account/Register.cs\</tspan>
+<tspan x="10" y="4682">167.  2017-04-25 20:53:55 +0000     1535 bytes  templates/projects/mvc/Views/Account/Register.cs\</tspan>
 <tspan x="10" y="4698">html</tspan>
-<tspan x="10" y="4714">168.  2017-04-19 04:34:37 +0000     1545 bytes  templates/projects/mvc/Views/Account/ResetPasswo\</tspan>
+<tspan x="10" y="4714">168.  2017-04-25 20:53:55 +0000     1545 bytes  templates/projects/mvc/Views/Account/ResetPasswo\</tspan>
 <tspan x="10" y="4730">rd.cshtml</tspan>
-<tspan x="10" y="4746">169.  2017-04-19 04:34:37 +0000      216 bytes  templates/projects/mvc/Views/Account/ResetPasswo\</tspan>
+<tspan x="10" y="4746">169.  2017-04-25 20:53:55 +0000      216 bytes  templates/projects/mvc/Views/Account/ResetPasswo\</tspan>
 <tspan x="10" y="4762">rdConfirmation.cshtml</tspan>
-<tspan x="10" y="4778">170.  2017-04-19 04:34:37 +0000      685 bytes  templates/projects/mvc/Views/Account/SendCode.cs\</tspan>
+<tspan x="10" y="4778">170.  2017-04-25 20:53:55 +0000      685 bytes  templates/projects/mvc/Views/Account/SendCode.cs\</tspan>
 <tspan x="10" y="4794">html</tspan>
-<tspan x="10" y="4810">171.  2017-04-19 04:34:37 +0000     1271 bytes  templates/projects/mvc/Views/Account/VerifyCode.\</tspan>
+<tspan x="10" y="4810">171.  2017-04-25 20:53:55 +0000     1271 bytes  templates/projects/mvc/Views/Account/VerifyCode.\</tspan>
 <tspan x="10" y="4826">cshtml</tspan>
-<tspan x="10" y="4842">172.  2017-04-19 04:34:37 +0000      157 bytes  templates/projects/mvc/Views/Home/About.cshtml</tspan>
-<tspan x="10" y="4858">173.  2017-04-19 04:34:37 +0000      452 bytes  templates/projects/mvc/Views/Home/Contact.cshtml</tspan>
-<tspan x="10" y="4874">174.  2017-04-19 04:34:37 +0000     5774 bytes  templates/projects/mvc/Views/Home/Index.cshtml</tspan>
-<tspan x="10" y="4890">175.  2017-04-19 04:34:37 +0000      919 bytes  templates/projects/mvc/Views/Manage/AddPhoneNumb\</tspan>
+<tspan x="10" y="4842">172.  2017-04-25 20:53:55 +0000      157 bytes  templates/projects/mvc/Views/Home/About.cshtml</tspan>
+<tspan x="10" y="4858">173.  2017-04-25 20:53:55 +0000      452 bytes  templates/projects/mvc/Views/Home/Contact.cshtml</tspan>
+<tspan x="10" y="4874">174.  2017-04-25 20:53:55 +0000     5774 bytes  templates/projects/mvc/Views/Home/Index.cshtml</tspan>
+<tspan x="10" y="4890">175.  2017-04-25 20:53:55 +0000      919 bytes  templates/projects/mvc/Views/Manage/AddPhoneNumb\</tspan>
 <tspan x="10" y="4906">er.cshtml</tspan>
-<tspan x="10" y="4922">176.  2017-04-19 04:34:37 +0000     1541 bytes  templates/projects/mvc/Views/Manage/ChangePasswo\</tspan>
+<tspan x="10" y="4922">176.  2017-04-25 20:53:55 +0000     1541 bytes  templates/projects/mvc/Views/Manage/ChangePasswo\</tspan>
 <tspan x="10" y="4938">rd.cshtml</tspan>
-<tspan x="10" y="4954">177.  2017-04-19 04:34:37 +0000     2854 bytes  templates/projects/mvc/Views/Manage/Index.cshtml</tspan>
-<tspan x="10" y="4970">178.  2017-04-19 04:34:37 +0000     2152 bytes  templates/projects/mvc/Views/Manage/ManageLogins\</tspan>
+<tspan x="10" y="4954">177.  2017-04-25 20:53:55 +0000     2854 bytes  templates/projects/mvc/Views/Manage/Index.cshtml</tspan>
+<tspan x="10" y="4970">178.  2017-04-25 20:53:55 +0000     2152 bytes  templates/projects/mvc/Views/Manage/ManageLogins\</tspan>
 <tspan x="10" y="4986">.cshtml</tspan>
-<tspan x="10" y="5002">179.  2017-04-19 04:34:37 +0000     1388 bytes  templates/projects/mvc/Views/Manage/SetPassword.\</tspan>
+<tspan x="10" y="5002">179.  2017-04-25 20:53:55 +0000     1388 bytes  templates/projects/mvc/Views/Manage/SetPassword.\</tspan>
 <tspan x="10" y="5018">cshtml</tspan>
-<tspan x="10" y="5034">180.  2017-04-19 04:34:37 +0000     1017 bytes  templates/projects/mvc/Views/Manage/VerifyPhoneN\</tspan>
+<tspan x="10" y="5034">180.  2017-04-25 20:53:55 +0000     1017 bytes  templates/projects/mvc/Views/Manage/VerifyPhoneN\</tspan>
 <tspan x="10" y="5050">umber.cshtml</tspan>
-<tspan x="10" y="5066">181.  2017-04-19 04:34:37 +0000      710 bytes  templates/projects/mvc/Views/Shared/Error.cshtml</tspan>
-<tspan x="10" y="5082">182.  2017-04-19 04:34:37 +0000     3122 bytes  templates/projects/mvc/Views/Shared/_Layout.csht\</tspan>
+<tspan x="10" y="5066">181.  2017-04-25 20:53:55 +0000      710 bytes  templates/projects/mvc/Views/Shared/Error.cshtml</tspan>
+<tspan x="10" y="5082">182.  2017-04-25 20:53:55 +0000     3122 bytes  templates/projects/mvc/Views/Shared/_Layout.csht\</tspan>
 <tspan x="10" y="5098">ml</tspan>
-<tspan x="10" y="5114">183.  2017-04-19 04:34:37 +0000      953 bytes  templates/projects/mvc/Views/Shared/_LoginPartia\</tspan>
+<tspan x="10" y="5114">183.  2017-04-25 20:53:55 +0000      953 bytes  templates/projects/mvc/Views/Shared/_LoginPartia\</tspan>
 <tspan x="10" y="5130">l.cshtml</tspan>
-<tspan x="10" y="5146">184.  2017-04-19 04:34:37 +0000      893 bytes  templates/projects/mvc/Views/Shared/_ValidationS\</tspan>
+<tspan x="10" y="5146">184.  2017-04-25 20:53:55 +0000      893 bytes  templates/projects/mvc/Views/Shared/_ValidationS\</tspan>
 <tspan x="10" y="5162">criptsPartial.cshtml</tspan>
-<tspan x="10" y="5178">185.  2017-04-19 04:34:37 +0000      242 bytes  templates/projects/mvc/Views/_ViewImports.cshtml</tspan>
-<tspan x="10" y="5194">186.  2017-04-19 04:34:37 +0000       32 bytes  templates/projects/mvc/Views/_ViewStart.cshtml</tspan>
-<tspan x="10" y="5210">187.  2017-04-19 04:34:37 +0000      168 bytes  templates/projects/mvc/appsettings.Development.j\</tspan>
+<tspan x="10" y="5178">185.  2017-04-25 20:53:55 +0000      242 bytes  templates/projects/mvc/Views/_ViewImports.cshtml</tspan>
+<tspan x="10" y="5194">186.  2017-04-25 20:53:55 +0000       32 bytes  templates/projects/mvc/Views/_ViewStart.cshtml</tspan>
+<tspan x="10" y="5210">187.  2017-04-25 20:53:55 +0000      168 bytes  templates/projects/mvc/appsettings.Development.j\</tspan>
 <tspan x="10" y="5226">son</tspan>
-<tspan x="10" y="5242">188.  2017-04-19 04:34:37 +0000      196 bytes  templates/projects/mvc/appsettings.json</tspan>
-<tspan x="10" y="5258">189.  2017-04-19 04:34:37 +0000      220 bytes  templates/projects/mvc/bower.json</tspan>
-<tspan x="10" y="5274">190.  2017-04-19 04:34:37 +0000      604 bytes  templates/projects/mvc/bundleconfig.json</tspan>
-<tspan x="10" y="5290">191.  2017-04-19 04:34:37 +0000      680 bytes  templates/projects/mvc/web.config</tspan>
-<tspan x="10" y="5306">192.  2017-04-19 04:34:37 +0000      978 bytes  templates/projects/mvc/wwwroot/css/site.css</tspan>
-<tspan x="10" y="5322">193.  2017-04-19 04:34:37 +0000      448 bytes  templates/projects/mvc/wwwroot/css/site.min.css</tspan>
-<tspan x="10" y="5338">194.  2017-04-19 04:34:37 +0000    32038 bytes  templates/projects/mvc/wwwroot/favicon.ico</tspan>
-<tspan x="10" y="5354">195.  2017-04-19 04:34:37 +0000     9679 bytes  templates/projects/mvc/wwwroot/images/banner1.sv\</tspan>
+<tspan x="10" y="5242">188.  2017-04-25 20:53:55 +0000      196 bytes  templates/projects/mvc/appsettings.json</tspan>
+<tspan x="10" y="5258">189.  2017-04-25 20:53:55 +0000      220 bytes  templates/projects/mvc/bower.json</tspan>
+<tspan x="10" y="5274">190.  2017-04-25 20:53:55 +0000      604 bytes  templates/projects/mvc/bundleconfig.json</tspan>
+<tspan x="10" y="5290">191.  2017-04-25 20:53:55 +0000      680 bytes  templates/projects/mvc/web.config</tspan>
+<tspan x="10" y="5306">192.  2017-04-25 20:53:55 +0000      978 bytes  templates/projects/mvc/wwwroot/css/site.css</tspan>
+<tspan x="10" y="5322">193.  2017-04-25 20:53:55 +0000      448 bytes  templates/projects/mvc/wwwroot/css/site.min.css</tspan>
+<tspan x="10" y="5338">194.  2017-04-25 20:53:55 +0000    32038 bytes  templates/projects/mvc/wwwroot/favicon.ico</tspan>
+<tspan x="10" y="5354">195.  2017-04-25 20:53:55 +0000     9679 bytes  templates/projects/mvc/wwwroot/images/banner1.sv\</tspan>
 <tspan x="10" y="5370">g</tspan>
-<tspan x="10" y="5386">196.  2017-04-19 04:34:37 +0000     8394 bytes  templates/projects/mvc/wwwroot/images/banner2.sv\</tspan>
+<tspan x="10" y="5386">196.  2017-04-25 20:53:55 +0000     8394 bytes  templates/projects/mvc/wwwroot/images/banner2.sv\</tspan>
 <tspan x="10" y="5402">g</tspan>
-<tspan x="10" y="5418">197.  2017-04-19 04:34:37 +0000    10872 bytes  templates/projects/mvc/wwwroot/images/banner3.sv\</tspan>
+<tspan x="10" y="5418">197.  2017-04-25 20:53:55 +0000    10872 bytes  templates/projects/mvc/wwwroot/images/banner3.sv\</tspan>
 <tspan x="10" y="5434">g</tspan>
-<tspan x="10" y="5450">198.  2017-04-19 04:34:37 +0000    12291 bytes  templates/projects/mvc/wwwroot/images/banner4.sv\</tspan>
+<tspan x="10" y="5450">198.  2017-04-25 20:53:55 +0000    12291 bytes  templates/projects/mvc/wwwroot/images/banner4.sv\</tspan>
 <tspan x="10" y="5466">g</tspan>
-<tspan x="10" y="5482">199.  2017-04-19 04:34:37 +0000       34 bytes  templates/projects/mvc/wwwroot/js/site.js</tspan>
-<tspan x="10" y="5498">200.  2017-04-19 04:34:37 +0000        0 bytes  templates/projects/mvc/wwwroot/js/site.min.js</tspan>
-<tspan x="10" y="5514">201.  2017-04-19 04:34:37 +0000     1734 bytes  templates/projects/mvcbasic/Company.WebApplicati\</tspan>
+<tspan x="10" y="5482">199.  2017-04-25 20:53:55 +0000       34 bytes  templates/projects/mvc/wwwroot/js/site.js</tspan>
+<tspan x="10" y="5498">200.  2017-04-25 20:53:55 +0000        0 bytes  templates/projects/mvc/wwwroot/js/site.min.js</tspan>
+<tspan x="10" y="5514">201.  2017-04-25 20:53:55 +0000     1734 bytes  templates/projects/mvcbasic/Company.WebApplicati\</tspan>
 <tspan x="10" y="5530">on1.csproj</tspan>
-<tspan x="10" y="5546">202.  2017-04-19 04:34:37 +0000      701 bytes  templates/projects/mvcbasic/Controllers/HomeCont\</tspan>
+<tspan x="10" y="5546">202.  2017-04-25 20:53:55 +0000      701 bytes  templates/projects/mvcbasic/Controllers/HomeCont\</tspan>
 <tspan x="10" y="5562">roller.cs</tspan>
-<tspan x="10" y="5578">203.  2017-04-19 04:34:37 +0000      641 bytes  templates/projects/mvcbasic/Program.cs</tspan>
-<tspan x="10" y="5594">204.  2017-04-19 04:34:37 +0000      622 bytes  templates/projects/mvcbasic/Properties/launchSet\</tspan>
+<tspan x="10" y="5578">203.  2017-04-25 20:53:55 +0000      641 bytes  templates/projects/mvcbasic/Program.cs</tspan>
+<tspan x="10" y="5594">204.  2017-04-25 20:53:55 +0000      622 bytes  templates/projects/mvcbasic/Properties/launchSet\</tspan>
 <tspan x="10" y="5610">tings.json</tspan>
-<tspan x="10" y="5626">205.  2017-04-19 04:34:37 +0000     2131 bytes  templates/projects/mvcbasic/README.md</tspan>
-<tspan x="10" y="5642">206.  2017-04-19 04:34:37 +0000     1967 bytes  templates/projects/mvcbasic/Startup.cs</tspan>
-<tspan x="10" y="5658">207.  2017-04-19 04:34:37 +0000      157 bytes  templates/projects/mvcbasic/Views/Home/About.csh\</tspan>
+<tspan x="10" y="5626">205.  2017-04-25 20:53:55 +0000     2131 bytes  templates/projects/mvcbasic/README.md</tspan>
+<tspan x="10" y="5642">206.  2017-04-25 20:53:55 +0000     1967 bytes  templates/projects/mvcbasic/Startup.cs</tspan>
+<tspan x="10" y="5658">207.  2017-04-25 20:53:55 +0000      157 bytes  templates/projects/mvcbasic/Views/Home/About.csh\</tspan>
 <tspan x="10" y="5674">tml</tspan>
-<tspan x="10" y="5690">208.  2017-04-19 04:34:37 +0000      452 bytes  templates/projects/mvcbasic/Views/Home/Contact.c\</tspan>
+<tspan x="10" y="5690">208.  2017-04-25 20:53:55 +0000      452 bytes  templates/projects/mvcbasic/Views/Home/Contact.c\</tspan>
 <tspan x="10" y="5706">shtml</tspan>
-<tspan x="10" y="5722">209.  2017-04-19 04:34:37 +0000     5575 bytes  templates/projects/mvcbasic/Views/Home/Index.csh\</tspan>
+<tspan x="10" y="5722">209.  2017-04-25 20:53:55 +0000     5575 bytes  templates/projects/mvcbasic/Views/Home/Index.csh\</tspan>
 <tspan x="10" y="5738">tml</tspan>
-<tspan x="10" y="5754">210.  2017-04-19 04:34:37 +0000      710 bytes  templates/projects/mvcbasic/Views/Shared/Error.c\</tspan>
+<tspan x="10" y="5754">210.  2017-04-25 20:53:55 +0000      710 bytes  templates/projects/mvcbasic/Views/Shared/Error.c\</tspan>
 <tspan x="10" y="5770">shtml</tspan>
-<tspan x="10" y="5786">211.  2017-04-19 04:34:37 +0000     3344 bytes  templates/projects/mvcbasic/Views/Shared/_Layout\</tspan>
+<tspan x="10" y="5786">211.  2017-04-25 20:53:55 +0000     3344 bytes  templates/projects/mvcbasic/Views/Shared/_Layout\</tspan>
 <tspan x="10" y="5802">.cshtml</tspan>
-<tspan x="10" y="5818">212.  2017-04-19 04:34:37 +0000       80 bytes  templates/projects/mvcbasic/Views/_ViewImports.c\</tspan>
+<tspan x="10" y="5818">212.  2017-04-25 20:53:55 +0000       80 bytes  templates/projects/mvcbasic/Views/_ViewImports.c\</tspan>
 <tspan x="10" y="5834">shtml</tspan>
-<tspan x="10" y="5850">213.  2017-04-19 04:34:37 +0000       32 bytes  templates/projects/mvcbasic/Views/_ViewStart.csh\</tspan>
+<tspan x="10" y="5850">213.  2017-04-25 20:53:55 +0000       32 bytes  templates/projects/mvcbasic/Views/_ViewStart.csh\</tspan>
 <tspan x="10" y="5866">tml</tspan>
-<tspan x="10" y="5882">214.  2017-04-19 04:34:37 +0000      168 bytes  templates/projects/mvcbasic/appsettings.Developm\</tspan>
+<tspan x="10" y="5882">214.  2017-04-25 20:53:55 +0000      168 bytes  templates/projects/mvcbasic/appsettings.Developm\</tspan>
 <tspan x="10" y="5898">ent.json</tspan>
-<tspan x="10" y="5914">215.  2017-04-19 04:34:37 +0000      105 bytes  templates/projects/mvcbasic/appsettings.json</tspan>
-<tspan x="10" y="5930">216.  2017-04-19 04:34:37 +0000      230 bytes  templates/projects/mvcbasic/bower.json</tspan>
-<tspan x="10" y="5946">217.  2017-04-19 04:34:37 +0000      604 bytes  templates/projects/mvcbasic/bundleconfig.json</tspan>
-<tspan x="10" y="5962">218.  2017-04-19 04:34:37 +0000      680 bytes  templates/projects/mvcbasic/web.config</tspan>
-<tspan x="10" y="5978">219.  2017-04-19 04:34:37 +0000      718 bytes  templates/projects/mvcbasic/wwwroot/css/site.css</tspan>
-<tspan x="10" y="5994">220.  2017-04-19 04:34:37 +0000      301 bytes  templates/projects/mvcbasic/wwwroot/css/site.min\</tspan>
+<tspan x="10" y="5914">215.  2017-04-25 20:53:55 +0000      105 bytes  templates/projects/mvcbasic/appsettings.json</tspan>
+<tspan x="10" y="5930">216.  2017-04-25 20:53:55 +0000      230 bytes  templates/projects/mvcbasic/bower.json</tspan>
+<tspan x="10" y="5946">217.  2017-04-25 20:53:55 +0000      604 bytes  templates/projects/mvcbasic/bundleconfig.json</tspan>
+<tspan x="10" y="5962">218.  2017-04-25 20:53:55 +0000      680 bytes  templates/projects/mvcbasic/web.config</tspan>
+<tspan x="10" y="5978">219.  2017-04-25 20:53:55 +0000      718 bytes  templates/projects/mvcbasic/wwwroot/css/site.css</tspan>
+<tspan x="10" y="5994">220.  2017-04-25 20:53:55 +0000      301 bytes  templates/projects/mvcbasic/wwwroot/css/site.min\</tspan>
 <tspan x="10" y="6010">.css</tspan>
-<tspan x="10" y="6026">221.  2017-04-19 04:34:37 +0000    32038 bytes  templates/projects/mvcbasic/wwwroot/favicon.ico</tspan>
-<tspan x="10" y="6042">222.  2017-04-19 04:34:37 +0000     9679 bytes  templates/projects/mvcbasic/wwwroot/images/banne\</tspan>
+<tspan x="10" y="6026">221.  2017-04-25 20:53:55 +0000    32038 bytes  templates/projects/mvcbasic/wwwroot/favicon.ico</tspan>
+<tspan x="10" y="6042">222.  2017-04-25 20:53:55 +0000     9679 bytes  templates/projects/mvcbasic/wwwroot/images/banne\</tspan>
 <tspan x="10" y="6058">r1.svg</tspan>
-<tspan x="10" y="6074">223.  2017-04-19 04:34:37 +0000     8394 bytes  templates/projects/mvcbasic/wwwroot/images/banne\</tspan>
+<tspan x="10" y="6074">223.  2017-04-25 20:53:55 +0000     8394 bytes  templates/projects/mvcbasic/wwwroot/images/banne\</tspan>
 <tspan x="10" y="6090">r2.svg</tspan>
-<tspan x="10" y="6106">224.  2017-04-19 04:34:37 +0000    10872 bytes  templates/projects/mvcbasic/wwwroot/images/banne\</tspan>
+<tspan x="10" y="6106">224.  2017-04-25 20:53:55 +0000    10872 bytes  templates/projects/mvcbasic/wwwroot/images/banne\</tspan>
 <tspan x="10" y="6122">r3.svg</tspan>
-<tspan x="10" y="6138">225.  2017-04-19 04:34:37 +0000    12291 bytes  templates/projects/mvcbasic/wwwroot/images/banne\</tspan>
+<tspan x="10" y="6138">225.  2017-04-25 20:53:55 +0000    12291 bytes  templates/projects/mvcbasic/wwwroot/images/banne\</tspan>
 <tspan x="10" y="6154">r4.svg</tspan>
-<tspan x="10" y="6170">226.  2017-04-19 04:34:37 +0000       34 bytes  templates/projects/mvcbasic/wwwroot/js/site.js</tspan>
-<tspan x="10" y="6186">227.  2017-04-19 04:34:37 +0000        0 bytes  templates/projects/mvcbasic/wwwroot/js/site.min.\</tspan>
+<tspan x="10" y="6170">226.  2017-04-25 20:53:55 +0000       34 bytes  templates/projects/mvcbasic/wwwroot/js/site.js</tspan>
+<tspan x="10" y="6186">227.  2017-04-25 20:53:55 +0000        0 bytes  templates/projects/mvcbasic/wwwroot/js/site.min.\</tspan>
 <tspan x="10" y="6202">js</tspan>
-<tspan x="10" y="6218">228.  2017-04-19 04:34:37 +0000      220 bytes  templates/projects/nancy/HomeModule.cs</tspan>
-<tspan x="10" y="6234">229.  2017-04-19 04:34:37 +0000     1113 bytes  templates/projects/nancy/NancyTemplate.csproj</tspan>
-<tspan x="10" y="6250">230.  2017-04-19 04:34:37 +0000      426 bytes  templates/projects/nancy/Program.cs</tspan>
-<tspan x="10" y="6266">231.  2017-04-19 04:34:37 +0000      250 bytes  templates/projects/nancy/Startup.cs</tspan>
-<tspan x="10" y="6282">232.  2017-04-19 04:34:37 +0000      517 bytes  templates/projects/web/Company.WebApplication1.c\</tspan>
+<tspan x="10" y="6218">228.  2017-04-25 20:53:55 +0000      220 bytes  templates/projects/nancy/HomeModule.cs</tspan>
+<tspan x="10" y="6234">229.  2017-04-25 20:53:55 +0000     1113 bytes  templates/projects/nancy/NancyTemplate.csproj</tspan>
+<tspan x="10" y="6250">230.  2017-04-25 20:53:55 +0000      426 bytes  templates/projects/nancy/Program.cs</tspan>
+<tspan x="10" y="6266">231.  2017-04-25 20:53:55 +0000      250 bytes  templates/projects/nancy/Startup.cs</tspan>
+<tspan x="10" y="6282">232.  2017-04-25 20:53:55 +0000      517 bytes  templates/projects/web/Company.WebApplication1.c\</tspan>
 <tspan x="10" y="6298">sproj</tspan>
-<tspan x="10" y="6314">233.  2017-04-19 04:34:37 +0000      666 bytes  templates/projects/web/Program.cs</tspan>
-<tspan x="10" y="6330">234.  2017-04-19 04:34:37 +0000      656 bytes  templates/projects/web/Properties/launchSettings\</tspan>
+<tspan x="10" y="6314">233.  2017-04-25 20:53:55 +0000      666 bytes  templates/projects/web/Program.cs</tspan>
+<tspan x="10" y="6330">234.  2017-04-25 20:53:55 +0000      656 bytes  templates/projects/web/Properties/launchSettings\</tspan>
 <tspan x="10" y="6346">.json</tspan>
-<tspan x="10" y="6362">235.  2017-04-19 04:34:37 +0000     2131 bytes  templates/projects/web/README.md</tspan>
-<tspan x="10" y="6378">236.  2017-04-19 04:34:37 +0000     1236 bytes  templates/projects/web/Startup.cs</tspan>
-<tspan x="10" y="6394">237.  2017-04-19 04:34:37 +0000     1295 bytes  templates/projects/web/project.json</tspan>
-<tspan x="10" y="6410">238.  2017-04-19 04:34:37 +0000       69 bytes  templates/projects/web/runtimeconfig.template.js\</tspan>
+<tspan x="10" y="6362">235.  2017-04-25 20:53:55 +0000     2131 bytes  templates/projects/web/README.md</tspan>
+<tspan x="10" y="6378">236.  2017-04-25 20:53:55 +0000     1236 bytes  templates/projects/web/Startup.cs</tspan>
+<tspan x="10" y="6394">237.  2017-04-25 20:53:55 +0000     1295 bytes  templates/projects/web/project.json</tspan>
+<tspan x="10" y="6410">238.  2017-04-25 20:53:55 +0000       69 bytes  templates/projects/web/runtimeconfig.template.js\</tspan>
 <tspan x="10" y="6426">on</tspan>
-<tspan x="10" y="6442">239.  2017-04-19 04:34:37 +0000      698 bytes  templates/projects/web/web.config</tspan>
-<tspan x="10" y="6458">240.  2017-04-19 04:34:37 +0000     1163 bytes  templates/projects/webapi/Company.WebApplication\</tspan>
+<tspan x="10" y="6442">239.  2017-04-25 20:53:55 +0000      698 bytes  templates/projects/web/web.config</tspan>
+<tspan x="10" y="6458">240.  2017-04-25 20:53:55 +0000     1163 bytes  templates/projects/webapi/Company.WebApplication\</tspan>
 <tspan x="10" y="6474">1.csproj</tspan>
-<tspan x="10" y="6490">241.  2017-04-19 04:34:37 +0000      928 bytes  templates/projects/webapi/Controllers/ValuesCont\</tspan>
+<tspan x="10" y="6490">241.  2017-04-25 20:53:55 +0000      928 bytes  templates/projects/webapi/Controllers/ValuesCont\</tspan>
 <tspan x="10" y="6506">roller.cs</tspan>
-<tspan x="10" y="6522">242.  2017-04-19 04:34:37 +0000      677 bytes  templates/projects/webapi/Program.cs</tspan>
-<tspan x="10" y="6538">243.  2017-04-19 04:34:37 +0000      665 bytes  templates/projects/webapi/Properties/launchSetti\</tspan>
+<tspan x="10" y="6522">242.  2017-04-25 20:53:55 +0000      677 bytes  templates/projects/webapi/Program.cs</tspan>
+<tspan x="10" y="6538">243.  2017-04-25 20:53:55 +0000      665 bytes  templates/projects/webapi/Properties/launchSetti\</tspan>
 <tspan x="10" y="6554">ngs.json</tspan>
-<tspan x="10" y="6570">244.  2017-04-19 04:34:37 +0000     2131 bytes  templates/projects/webapi/README.md</tspan>
-<tspan x="10" y="6586">245.  2017-04-19 04:34:37 +0000     1498 bytes  templates/projects/webapi/Startup.cs</tspan>
-<tspan x="10" y="6602">246.  2017-04-19 04:34:37 +0000      168 bytes  templates/projects/webapi/appsettings.Developmen\</tspan>
+<tspan x="10" y="6570">244.  2017-04-25 20:53:55 +0000     2131 bytes  templates/projects/webapi/README.md</tspan>
+<tspan x="10" y="6586">245.  2017-04-25 20:53:55 +0000     1498 bytes  templates/projects/webapi/Startup.cs</tspan>
+<tspan x="10" y="6602">246.  2017-04-25 20:53:55 +0000      168 bytes  templates/projects/webapi/appsettings.Developmen\</tspan>
 <tspan x="10" y="6618">t.json</tspan>
-<tspan x="10" y="6634">247.  2017-04-19 04:34:37 +0000      105 bytes  templates/projects/webapi/appsettings.json</tspan>
-<tspan x="10" y="6650">248.  2017-04-19 04:34:37 +0000      552 bytes  templates/projects/webapi/web.config</tspan>
-<tspan x="10" y="6666">249.  2017-04-19 04:34:37 +0000      494 bytes  templates/projects/xunit/Company.TestProject1.cs\</tspan>
+<tspan x="10" y="6634">247.  2017-04-25 20:53:55 +0000      105 bytes  templates/projects/webapi/appsettings.json</tspan>
+<tspan x="10" y="6650">248.  2017-04-25 20:53:55 +0000      552 bytes  templates/projects/webapi/web.config</tspan>
+<tspan x="10" y="6666">249.  2017-04-25 20:53:55 +0000      494 bytes  templates/projects/xunit/Company.TestProject1.cs\</tspan>
 <tspan x="10" y="6682">proj</tspan>
-<tspan x="10" y="6698">250.  2017-04-19 04:34:37 +0000      419 bytes  templates/projects/xunit/UnitTest1.cs</tspan>
-<tspan x="10" y="6714">251.  2017-04-19 04:34:37 +0000      115 bytes  templates/projects/xunit/xunit.runner.json</tspan>
-<tspan x="10" y="6730">252.  2017-04-19 04:34:37 +0000      587 bytes  templates/web.config</tspan>
-<tspan x="10" y="6746">253.  2017-04-19 04:34:37 +0000      312 bytes  test/compat.js</tspan>
-<tspan x="10" y="6762">254.  2017-04-19 04:34:37 +0000      603 bytes  test/subgenerators.js</tspan>
-<tspan x="10" y="6778">255.  2017-04-19 04:34:37 +0000    40126 bytes  test/test-core.js</tspan>
-<tspan x="10" y="6794">256.  2017-04-19 04:34:37 +0000     4357 bytes  test/test-utility.js</tspan>
-<tspan x="10" y="6810">257.  2017-04-19 04:34:37 +0000      123 bytes  webconfig/USAGE</tspan>
-<tspan x="10" y="6826">258.  2017-04-19 04:34:37 +0000      338 bytes  webconfig/index.js</tspan>
+<tspan x="10" y="6698">250.  2017-04-25 20:53:55 +0000      419 bytes  templates/projects/xunit/UnitTest1.cs</tspan>
+<tspan x="10" y="6714">251.  2017-04-25 20:53:55 +0000      115 bytes  templates/projects/xunit/xunit.runner.json</tspan>
+<tspan x="10" y="6730">252.  2017-04-25 20:53:55 +0000      587 bytes  templates/web.config</tspan>
+<tspan x="10" y="6746">253.  2017-04-25 20:53:55 +0000      312 bytes  test/compat.js</tspan>
+<tspan x="10" y="6762">254.  2017-04-25 20:53:55 +0000      603 bytes  test/subgenerators.js</tspan>
+<tspan x="10" y="6778">255.  2017-04-25 20:53:55 +0000    40126 bytes  test/test-core.js</tspan>
+<tspan x="10" y="6794">256.  2017-04-25 20:53:55 +0000     4357 bytes  test/test-utility.js</tspan>
+<tspan x="10" y="6810">257.  2017-04-25 20:53:55 +0000      123 bytes  webconfig/USAGE</tspan>
+<tspan x="10" y="6826">258.  2017-04-25 20:53:55 +0000      338 bytes  webconfig/index.js</tspan>
 </text>
 </svg>

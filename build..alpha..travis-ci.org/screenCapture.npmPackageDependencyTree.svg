@@ -1,7 +1,7 @@
 <svg height="7102" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="7102" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">58 megabytes installed</tspan>
+<tspan x="10" y="26">57 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ generator-aspnet@0.3.3 </tspan>
@@ -64,7 +64,7 @@
 <tspan x="10" y="986">  │ │   │ └── signal-exit@3.0.2 </tspan>
 <tspan x="10" y="1002">  │ │   ├── map-obj@1.0.1 </tspan>
 <tspan x="10" y="1018">  │ │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="1034">  │ │   ├─┬ normalize-package-data@2.3.6 </tspan>
+<tspan x="10" y="1034">  │ │   ├─┬ normalize-package-data@2.3.8 </tspan>
 <tspan x="10" y="1050">  │ │   │ ├── hosted-git-info@2.4.2 </tspan>
 <tspan x="10" y="1066">  │ │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
 <tspan x="10" y="1082">  │ │   │ │ └── builtin-modules@1.1.1 </tspan>
@@ -84,8 +84,8 @@
 <tspan x="10" y="1306">  │ │   │ ├── indent-string@2.1.0 </tspan>
 <tspan x="10" y="1322">  │ │   │ └── strip-indent@1.0.1 </tspan>
 <tspan x="10" y="1338">  │ │   └── trim-newlines@1.0.0 </tspan>
-<tspan x="10" y="1354">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="1370">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1354">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="1370">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="1386">  │ ├── detect-conflict@1.0.1 </tspan>
 <tspan x="10" y="1402">  │ ├── diff@1.4.0 </tspan>
 <tspan x="10" y="1418">  │ ├─┬ download@4.4.3 </tspan>
@@ -158,7 +158,7 @@
 <tspan x="10" y="2490">  │ │ │ │ │ ├── is-zip@1.0.0 </tspan>
 <tspan x="10" y="2506">  │ │ │ │ │ ├── stat-mode@0.2.2 </tspan>
 <tspan x="10" y="2522">  │ │ │ │ │ ├── through2@2.0.3 </tspan>
-<tspan x="10" y="2538">  │ │ │ │ │ └─┬ yauzl@2.7.0 </tspan>
+<tspan x="10" y="2538">  │ │ │ │ │ └─┬ yauzl@2.8.0 </tspan>
 <tspan x="10" y="2554">  │ │ │ │ │   ├── buffer-crc32@0.2.13 </tspan>
 <tspan x="10" y="2570">  │ │ │ │ │   └─┬ fd-slicer@1.0.1 </tspan>
 <tspan x="10" y="2586">  │ │ │ │ │     └── pend@1.2.0 </tspan>
@@ -246,7 +246,7 @@
 <tspan x="10" y="3898">  │ │ │ │ │ ├── filename-regex@2.0.0 </tspan>
 <tspan x="10" y="3914">  │ │ │ │ │ ├── is-extglob@1.0.0 </tspan>
 <tspan x="10" y="3930">  │ │ │ │ │ ├── is-glob@2.0.1 </tspan>
-<tspan x="10" y="3946">  │ │ │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="3946">  │ │ │ │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="3962">  │ │ │ │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="3978">  │ │ │ │ │ ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="3994">  │ │ │ │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
